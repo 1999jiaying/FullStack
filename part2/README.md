@@ -1,2 +1,0 @@
-# FullStack
-web development exercises
